@@ -25,7 +25,6 @@ cors = CORS(app)
 
 
 
-openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
 
